@@ -1,8 +1,8 @@
-Absolutely 👍 I’ll convert the **How to Run Guide** into a clean `README.md` section.
+
 
 ---
 
-# 🏃 How to Run PR Review Bot
+
 
 This guide explains how to set up and run the Python-based **PR Review Bot**, which automates pull request reviews using GitHub webhooks and the Gemini LLM.
 
